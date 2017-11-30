@@ -20,7 +20,7 @@ In my you can input data your journy detals and get cars least best for you in m
 Data Summary
 ========================================================
 
-```{r, echo=FALSE}
+```{r}
 summary(mtcars[,1:4])
 ```
  
