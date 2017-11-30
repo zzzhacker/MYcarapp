@@ -1,0 +1,31 @@
+Developing Data Products - Course Project
+========================================================
+author: Yogesh Gurjar
+date: 30/11/17
+autosize: true
+font-family: 'Garamond'
+transition: rotate
+Mtcars Data
+========================================================
+
+The data was extracted from the 1974 Motor Trend US magazine, and comprises fuel consumption and 10 aspects of automobile design and performance for 32 automobiles (1973–74 models).
+
+Web app Intro
+========================================================
+
+<b>Best ar buy you can buy</b> is the webapp where you can get dynamic rendeing graphs on mtcars datasets.
+
+In my you can input data your journy detals and get cars least best for you in mtcars.
+
+Data Summary
+========================================================
+
+```{r, echo=FALSE}
+summary(mtcars[,1:4])
+```
+ 
+ Useful links
+================
+- <a href="https://zhacker.shinyapps.io/mycarapp/"><b>Shiny</b></a> web app named "Best car you can buy".
+- <b>R Presentation</b> with R studio.
+- Get the code file on <a href="https://github.com/zzzhacker/MYcarapp">Github</a>
